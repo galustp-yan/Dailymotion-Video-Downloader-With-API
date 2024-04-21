@@ -4,7 +4,6 @@ from googleapiclient.discovery import build
 from google.oauth2 import service_account
 import os
 
-
 # Path to your service account credentials file
 path_to_your_credentials = "./credentials"
 # ID of the Google Drive folder where you want to upload the videos

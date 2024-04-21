@@ -22,7 +22,6 @@ Before running the script, make sure you have the following:
 
 2. Run the script:
  
-
 3. The script will download videos from the specified Dailymotion user's account, upload them to Google Drive, and remove the downloaded files after uploading.
 
 ## Notes
